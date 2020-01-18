@@ -1,0 +1,13 @@
+.row{
+    justify-content: space-evenly;
+}
+
+.form-container{
+    position: absolute;
+    top:15vh;
+    background:#F08080;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px 5px gray;
+
+}

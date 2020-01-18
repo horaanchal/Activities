@@ -1,0 +1,12 @@
+
+#button{
+    font-size: 1rem;
+    background-color: grey;
+}
+#input::placeholder{
+    background-color: skyblue;
+    font-size: 1rem;
+    padding:.5rem;
+    margin:1rem;
+}
+
